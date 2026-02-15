@@ -1,0 +1,9 @@
+{
+  "name": "Takween Engineering Management System",
+  "description": "A comprehensive engineering project and employee management system with Kanban, Scrum, KPI tracking, and site reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
